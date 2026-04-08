@@ -25,6 +25,22 @@ This folder maps most directly to the `Population Health Statistical Analysis | 
 
 - `projects/population-health-statistical-analysis/`: R-based statistical analysis artifacts, milestone scripts, and supporting reports focused on hypothesis testing, correlation analysis, and interpretation
 
+## Course Capstones By Format
+
+### Jupyter / Python Notebook Projects
+
+- `projects/amazon-product-analytics/`
+- `projects/insurance-risk-prediction/`
+- `projects/car-insurance-risk-modeling/`
+- `projects/jupyter-aly6040-data-mining-capstone/`
+- `projects/jupyter-aly6080-exploratory-analysis/`
+- `projects/jupyter-aly6110-retail-eda-dashboard/`
+
+### R / Statistical Analysis Projects
+
+- `projects/population-health-statistical-analysis/`
+- `projects/r-6015-capstone-analysis/`
+
 ## Extracurricular Project
 
 ### Life Time Class Sniper
@@ -45,6 +61,10 @@ projects/
   insurance-risk-prediction/
   car-insurance-risk-modeling/
   population-health-statistical-analysis/
+  jupyter-aly6040-data-mining-capstone/
+  jupyter-aly6080-exploratory-analysis/
+  jupyter-aly6110-retail-eda-dashboard/
+  r-6015-capstone-analysis/
 
 extracurricular/
   life-time-class-sniper/
