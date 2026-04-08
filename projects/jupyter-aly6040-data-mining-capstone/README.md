@@ -1,6 +1,6 @@
-# ALY6040 Data Mining Capstone
+# ALY6040 Data Mining Capstone_Predicting Hospital Readmission Risk from Healthcare Records
 
-This folder packages a notebook-driven data mining capstone with supporting final report and presentation materials.
+Predicting Hospital Readmission Risk from Healthcare Records
 
 ## Format
 
