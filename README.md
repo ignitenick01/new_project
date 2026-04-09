@@ -1,4 +1,4 @@
-# Junhui (Nick) Hu Project Portfolio
+# Project Portfolio
 
 This repository is a curated data science and machine learning portfolio built to support my resume. It combines graduate capstones, applied modeling work, and one extracurricular automation project, with an emphasis on how raw data was cleaned, validated, and turned into analysis-ready datasets.
 
