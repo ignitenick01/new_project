@@ -1,18 +1,29 @@
 # Life Time Class Sniper
 
-This is an extracurricular browser automation project built as a Tampermonkey-style userscript for monitoring and completing a class booking flow on the Life Time website.
+This extracurricular project is a browser userscript that helps automate a repetitive Life Time class-booking workflow. It is included as a small hobby build that shows practical JavaScript automation outside of coursework.
 
-## Why It Is Included
+## What This Project Does
 
-Although it is not part of my formal graduate coursework, it reflects practical scripting, DOM automation, state handling, and user-focused workflow design.
+- Watches for a target class page
+- Opens the booking flow at the desired time
+- Helps move through the booking interface without full page reloads
+- Stores user preferences such as target URL, participant name, and booking time in browser-side state
+
+## Why It Matters In This Portfolio
+
+Although this is not a machine learning project, it demonstrates the same habits that matter in analytics work:
+
+- turning a manual process into a repeatable workflow
+- handling state and edge cases in real time
+- designing automation around a real user need
 
 ## Project Contents
 
-- `code/lifetime-ctr-sniper.user.js`: userscript source
+- `code/lifetime-ctr-sniper.user.js`: userscript source code
 
-## Skills Demonstrated
+## Technical Highlights
 
-- JavaScript automation
-- Browser DOM interaction
-- Persistent client-side state management
-- Workflow scripting for real-world repetitive tasks
+- DOM inspection and browser automation
+- Local state persistence for reusable settings
+- Page-state detection across a multi-step workflow
+- Small-scale product thinking for a real-world pain point
