@@ -46,6 +46,15 @@ These projects are the closest match to the modeling and analytics themes on my 
   - Exploratory analysis and project-framing materials for an individual proposal.
   - Cleaning highlights: resolved missing count-style variables such as journal-index approximations, profiled fields before analysis, and used notebook exploration to shape the final analytical question.
 
+### Data Warehousing And Dashboard Communication
+
+- `projects/sql-aly6030-pharmacy-claims/`
+  - SQL final project that restructures pharmacy claims data into dimensions and a fact table.
+  - Cleaning highlights: split a flat dataset into warehouse tables, corrected data types, enforced primary and foreign keys, and introduced a surrogate fact key for maintainable querying.
+- `projects/bi-dashboard-aly6070/`
+  - Dashboard portfolio with a D.C. crash-analysis midterm and an NYC arrests-analysis final.
+  - Preparation highlights: created calculated dashboard fields, integrated borough population for per-capita analysis, and paired Tableau/Qlik outputs with presentation-ready storytelling.
+
 ## Extracurricular Project
 
 - `extracurricular/life-time-class-sniper/`
@@ -60,6 +69,8 @@ If you only have a few minutes, start with:
 2. `projects/insurance-risk-prediction/`
 3. `projects/population-health-statistical-analysis/`
 4. `projects/amazon-product-analytics/`
+5. `projects/sql-aly6030-pharmacy-claims/`
+6. `projects/bi-dashboard-aly6070/`
 
 Each project README now answers four quick questions:
 
@@ -73,6 +84,7 @@ Each project README now answers four quick questions:
 ```text
 projects/
   amazon-product-analytics/
+  bi-dashboard-aly6070/
   car-insurance-risk-modeling/
   insurance-risk-prediction/
   jupyter-aly6040-data-mining-capstone/
@@ -80,6 +92,7 @@ projects/
   jupyter-aly6110-retail-eda-dashboard/
   population-health-statistical-analysis/
   r-6015-capstone-analysis/
+  sql-aly6030-pharmacy-claims/
 
 extracurricular/
   life-time-class-sniper/
