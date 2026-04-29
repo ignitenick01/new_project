@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Marvel Rivals Analytics Case Study</title>
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; color: #1c1917; background: #f4f1ea; }
+    header { padding: 34px 44px 20px; background: #111827; color: white; }
+    main { max-width: 1100px; margin: 0 auto; padding: 28px; }
+    h1 { margin: 0 0 10px; font-size: 30px; letter-spacing: 0; }
+    h2 { margin: 32px 0 12px; font-size: 20px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 12px; }
+    .card { background: #fbfaf7; border: 1px solid #ddd6c8; border-radius: 8px; padding: 16px; }
+    .metric { font-size: 24px; font-weight: 700; margin-top: 8px; }
+    table { width: 100%; border-collapse: collapse; background: #fbfaf7; border: 1px solid #ddd6c8; }
+    th, td { padding: 10px 12px; border-bottom: 1px solid #e7e0d4; text-align: left; font-size: 14px; }
+    th { background: #ede7da; }
+    svg { width: 100%; height: auto; border: 1px solid #ddd6c8; border-radius: 8px; }
+    .note { color: #57534e; line-height: 1.55; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Marvel Rivals Live-Service Analytics Case Study</h1>
+    <p>Public Steam data plus deterministic simulated telemetry for lifecycle, UA, economy, and A/B testing demonstration.</p>
+  </header>
+  <main>
+    <section class="grid">
+      <div class="card"><div>SteamSpy current CCU snapshot</div><div class="metric">106611</div></div><div class="card"><div>Steam review score</div><div class="metric">undefined</div></div><div class="card"><div>Total Steam review positive rate</div><div class="metric">NaN%</div></div><div class="card"><div>Sample recent review positive rate</div><div class="metric">66.0%</div></div><div class="card"><div>Median reviewer lifetime playtime</div><div class="metric">83.8 hours</div></div><div class="card"><div>All-time Steam peak from monthly public table</div><div class="metric">644,269 on 2025-01-11</div></div>
+    </section>
+
+    <h2>Public Market Signal</h2>
+    <svg viewBox="0 0 780 260" aria-label="Steam monthly average players">
+    <rect width="780" height="260" fill="#fbfaf7"/>
+    <line x1="42" y1="218" x2="738" y2="218" stroke="#98958e"/>
+    <line x1="42" y1="42" x2="42" y2="218" stroke="#98958e"/>
+    <polyline points="42.0,52.6 85.5,52.1 129.0,102.4 172.5,160.2 216.0,166.7 259.5,188.1 303.0,204.7 346.5,201.9 390.0,205.2 433.5,214.8 477.0,214.7 520.5,211.3 564.0,206.6 607.5,198.0 651.0,203.6 694.5,214.2 738.0,213.7" fill="none" stroke="#2563eb" stroke-width="3"/>
+    <circle cx="42.0" cy="52.6" r="3" fill="#0f172a"/><circle cx="85.5" cy="52.1" r="3" fill="#0f172a"/><circle cx="129.0" cy="102.4" r="3" fill="#0f172a"/><circle cx="172.5" cy="160.2" r="3" fill="#0f172a"/><circle cx="216.0" cy="166.7" r="3" fill="#0f172a"/><circle cx="259.5" cy="188.1" r="3" fill="#0f172a"/><circle cx="303.0" cy="204.7" r="3" fill="#0f172a"/><circle cx="346.5" cy="201.9" r="3" fill="#0f172a"/><circle cx="390.0" cy="205.2" r="3" fill="#0f172a"/><circle cx="433.5" cy="214.8" r="3" fill="#0f172a"/><circle cx="477.0" cy="214.7" r="3" fill="#0f172a"/><circle cx="520.5" cy="211.3" r="3" fill="#0f172a"/><circle cx="564.0" cy="206.6" r="3" fill="#0f172a"/><circle cx="607.5" cy="198.0" r="3" fill="#0f172a"/><circle cx="651.0" cy="203.6" r="3" fill="#0f172a"/><circle cx="694.5" cy="214.2" r="3" fill="#0f172a"/><circle cx="738.0" cy="213.7" r="3" fill="#0f172a"/>
+    <text x="42.0" y="246" text-anchor="start" font-size="11" fill="#44403c">2024-12</text><text x="216.0" y="246" text-anchor="middle" font-size="11" fill="#44403c">2025-04</text><text x="390.0" y="246" text-anchor="middle" font-size="11" fill="#44403c">2025-08</text><text x="564.0" y="246" text-anchor="middle" font-size="11" fill="#44403c">2025-12</text><text x="738.0" y="246" text-anchor="middle" font-size="11" fill="#44403c">2026-04</text>
+    <text x="42" y="24" font-size="15" font-weight="700" fill="#1c1917">Steam monthly average players</text>
+  </svg>
+
+    <h2>Recent Review Topics</h2>
+    <svg viewBox="0 0 780 224" aria-label="Keyword mentions in recent Steam review sample">
+    <rect width="780" height="224" fill="#fbfaf7"/>
+    <text x="24" y="28" font-size="15" font-weight="700" fill="#1c1917">Keyword mentions in recent Steam review sample</text>
+    <text x="24" y="66" font-size="12" fill="#292524">fun</text>
+        <rect x="180" y="48" width="500.0" height="22" rx="3" fill="#0f766e"/>
+        <text x="690" y="64" font-size="12" fill="#292524">179</text><text x="24" y="100" font-size="12" fill="#292524">matchmaking</text>
+        <rect x="180" y="82" width="153.6" height="22" rx="3" fill="#0f766e"/>
+        <text x="343.63128491620114" y="98" font-size="12" fill="#292524">55</text><text x="24" y="134" font-size="12" fill="#292524">community</text>
+        <rect x="180" y="116" width="95.0" height="22" rx="3" fill="#0f766e"/>
+        <text x="284.97206703910615" y="132" font-size="12" fill="#292524">34</text><text x="24" y="168" font-size="12" fill="#292524">monetization</text>
+        <rect x="180" y="150" width="55.9" height="22" rx="3" fill="#0f766e"/>
+        <text x="245.8659217877095" y="166" font-size="12" fill="#292524">20</text><text x="24" y="202" font-size="12" fill="#292524">optimization</text>
+        <rect x="180" y="184" width="27.9" height="22" rx="3" fill="#0f766e"/>
+        <text x="217.93296089385476" y="200" font-size="12" fill="#292524">10</text>
+  </svg>
+
+    <h2>Lifecycle Funnel</h2>
+    <table>
+      <tr><th>Step</th><th>Players</th><th>From install</th><th>From previous</th></tr>
+      <tr><td>Install</td><td>2500</td><td>100.0%</td><td>100.0%</td></tr><tr><td>Tutorial start</td><td>2343</td><td>93.7%</td><td>93.7%</td></tr><tr><td>Tutorial complete</td><td>2045</td><td>81.8%</td><td>87.3%</td></tr><tr><td>First match</td><td>1934</td><td>77.4%</td><td>94.6%</td></tr><tr><td>Purchase</td><td>123</td><td>4.9%</td><td>6.4%</td></tr>
+    </table>
+
+    <h2>UA Efficiency: Top Campaign-Creative Cells</h2>
+    <table>
+      <tr><th>Campaign</th><th>Creative</th><th>Channel</th><th>CPI</th><th>D30 ROAS</th><th>Projected 180D LTV</th></tr>
+      <tr><td>steam_featuring_2</td><td>creative_3</td><td>Steam Featuring</td><td>$0.71</td><td>1130.2%</td><td>$15.29</td></tr><tr><td>steam_featuring_3</td><td>creative_5</td><td>Steam Featuring</td><td>$0.72</td><td>409.6%</td><td>$5.58</td></tr><tr><td>steam_featuring_1</td><td>creative_5</td><td>Steam Featuring</td><td>$0.74</td><td>260.1%</td><td>$3.65</td></tr><tr><td>steam_featuring_3</td><td>creative_2</td><td>Steam Featuring</td><td>$0.73</td><td>227.4%</td><td>$3.16</td></tr><tr><td>steam_featuring_3</td><td>creative_3</td><td>Steam Featuring</td><td>$0.71</td><td>174.8%</td><td>$2.37</td></tr><tr><td>steam_featuring_2</td><td>creative_1</td><td>Steam Featuring</td><td>$0.72</td><td>163.9%</td><td>$2.23</td></tr><tr><td>steam_featuring_2</td><td>creative_5</td><td>Steam Featuring</td><td>$0.72</td><td>149.6%</td><td>$2.03</td></tr><tr><td>influencer_1</td><td>creative_4</td><td>Influencer</td><td>$2.90</td><td>147.5%</td><td>$8.13</td></tr>
+    </table>
+
+    <h2>A/B Test</h2>
+    <table>
+      <tr><th>Metric</th><th>Control</th><th>Treatment</th><th>Lift</th><th>p-value</th></tr>
+      <tr><td>7-day purchase conversion</td><td>3.5%</td><td>3.5%</td><td>0.8%</td><td>0.9703</td></tr><tr><td>D7 retention</td><td>37.5%</td><td>36.7%</td><td>-2.2%</td><td>0.6676</td></tr>
+    </table>
+
+    <h2>Balance Watchlist</h2>
+    <table>
+      <tr><th>Mode</th><th>Map</th><th>Matches</th><th>Win Rate</th><th>Avg Soft Currency</th></tr>
+      <tr><td>Arcade</td><td>Birnin T'Challa</td><td>2532</td><td>56.0%</td><td>74.6</td></tr><tr><td>PvE Event</td><td>Hell's Heaven</td><td>2142</td><td>54.5%</td><td>74.1</td></tr><tr><td>PvE Event</td><td>Spider-Islands</td><td>2180</td><td>54.3%</td><td>74.0</td></tr><tr><td>PvE Event</td><td>Birnin T'Challa</td><td>2057</td><td>54.2%</td><td>74.0</td></tr><tr><td>PvE Event</td><td>Yggsgard</td><td>2146</td><td>54.1%</td><td>74.0</td></tr><tr><td>Quick Match</td><td>Hell's Heaven</td><td>9310</td><td>54.0%</td><td>73.9</td></tr><tr><td>PvE Event</td><td>Tokyo 2099</td><td>2125</td><td>53.6%</td><td>73.8</td></tr><tr><td>Arcade</td><td>Spider-Islands</td><td>2550</td><td>53.5%</td><td>73.7</td></tr>
+    </table>
+
+    <h2>Interpretation</h2>
+    <p class="note">Public data establishes the game and market context, while simulated first-party telemetry makes the lifecycle, economy, attribution, and experiment analysis reproducible without claiming access to proprietary data.</p>
+  </main>
+</body>
+</html>

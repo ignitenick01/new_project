@@ -1,0 +1,92 @@
+campaign_id,creative_id,acquisition_channel,installs,spend_usd,cpi,d7_revenue_usd,d30_revenue_usd,d7_roas,d30_roas
+steam_featuring_1,creative_2,Steam Featuring,13,9.29,0.71,0.00,0.00,0.0000,0.0000
+organic,organic,Organic,677,0.00,0.00,199.80,259.70,199.8000,259.7000
+google_uac_2,creative_4,Google UAC,19,80.59,4.24,14.97,24.96,0.1858,0.3097
+meta_3,creative_4,Meta,27,98.41,3.64,4.99,4.99,0.0507,0.0507
+google_uac_1,creative_3,Google UAC,29,122.91,4.24,0.00,19.99,0.0000,0.1626
+meta_3,creative_6,Meta,19,71.23,3.75,0.00,0.00,0.0000,0.0000
+google_uac_3,creative_2,Google UAC,17,71.36,4.20,9.98,19.97,0.1398,0.2798
+steam_featuring_3,creative_4,Steam Featuring,11,7.87,0.72,0.00,0.00,0.0000,0.0000
+tiktok_3,creative_2,TikTok,28,60.39,2.16,0.00,0.00,0.0000,0.0000
+tiktok_2,creative_5,TikTok,19,40.84,2.15,19.99,39.98,0.4895,0.9790
+google_uac_1,creative_1,Google UAC,12,48.05,4.00,0.00,0.00,0.0000,0.0000
+influencer_3,creative_2,Influencer,21,60.95,2.90,0.00,0.00,0.0000,0.0000
+tiktok_1,creative_4,TikTok,24,51.34,2.14,0.00,0.00,0.0000,0.0000
+tiktok_2,creative_4,TikTok,31,65.57,2.12,0.00,0.00,0.0000,0.0000
+google_uac_1,creative_5,Google UAC,15,61.43,4.10,0.00,0.00,0.0000,0.0000
+steam_featuring_1,creative_1,Steam Featuring,19,13.36,0.70,0.00,0.00,0.0000,0.0000
+meta_2,creative_1,Meta,27,98.07,3.63,0.00,9.99,0.0000,0.1019
+tiktok_3,creative_4,TikTok,35,75.37,2.15,0.00,0.00,0.0000,0.0000
+google_uac_3,creative_3,Google UAC,16,67.42,4.21,0.00,9.99,0.0000,0.1482
+google_uac_2,creative_1,Google UAC,23,98.63,4.29,0.00,0.00,0.0000,0.0000
+tiktok_3,creative_1,TikTok,24,51.11,2.13,9.99,9.99,0.1955,0.1955
+influencer_1,creative_3,Influencer,12,34.44,2.87,0.00,4.99,0.0000,0.1449
+influencer_3,creative_6,Influencer,14,38.94,2.78,0.00,0.00,0.0000,0.0000
+influencer_1,creative_1,Influencer,21,60.59,2.89,24.98,34.97,0.4123,0.5772
+tiktok_1,creative_6,TikTok,28,59.27,2.12,0.00,0.00,0.0000,0.0000
+steam_featuring_3,creative_2,Steam Featuring,21,15.38,0.73,34.97,34.97,2.2742,2.2742
+google_uac_1,creative_2,Google UAC,24,98.20,4.09,4.99,9.98,0.0508,0.1016
+tiktok_2,creative_6,TikTok,28,59.02,2.11,9.99,9.99,0.1693,0.1693
+meta_1,creative_4,Meta,29,104.86,3.62,0.00,0.00,0.0000,0.0000
+google_uac_2,creative_5,Google UAC,17,68.14,4.01,0.00,0.00,0.0000,0.0000
+meta_1,creative_2,Meta,25,89.53,3.58,24.98,39.95,0.2790,0.4462
+influencer_1,creative_2,Influencer,12,33.86,2.82,0.00,0.00,0.0000,0.0000
+tiktok_3,creative_3,TikTok,29,63.09,2.18,0.00,9.99,0.0000,0.1583
+meta_1,creative_3,Meta,22,79.18,3.60,29.98,29.98,0.3786,0.3786
+google_uac_3,creative_1,Google UAC,21,88.01,4.19,14.97,19.96,0.1701,0.2268
+influencer_3,creative_4,Influencer,17,49.16,2.89,14.98,29.96,0.3047,0.6094
+meta_3,creative_2,Meta,22,82.12,3.73,19.99,24.98,0.2434,0.3042
+influencer_2,creative_3,Influencer,17,49.25,2.90,9.99,9.99,0.2028,0.2028
+meta_1,creative_1,Meta,34,126.53,3.72,44.95,44.95,0.3553,0.3553
+tiktok_1,creative_2,TikTok,17,35.82,2.11,0.00,0.00,0.0000,0.0000
+meta_2,creative_6,Meta,37,135.46,3.66,14.97,39.95,0.1105,0.2949
+meta_2,creative_5,Meta,29,108.50,3.74,0.00,0.00,0.0000,0.0000
+steam_featuring_2,creative_1,Steam Featuring,17,12.19,0.72,19.97,19.97,1.6389,1.6389
+meta_3,creative_3,Meta,30,113.32,3.78,4.99,4.99,0.0440,0.0440
+influencer_1,creative_6,Influencer,20,56.67,2.83,9.99,19.98,0.1763,0.3526
+steam_featuring_2,creative_3,Steam Featuring,18,12.82,0.71,119.91,144.87,9.3543,11.3015
+google_uac_2,creative_3,Google UAC,20,84.41,4.22,14.98,14.98,0.1775,0.1775
+steam_featuring_1,creative_6,Steam Featuring,14,10.10,0.72,4.99,4.99,0.4942,0.4942
+influencer_1,creative_5,Influencer,9,25.17,2.80,0.00,0.00,0.0000,0.0000
+google_uac_2,creative_6,Google UAC,19,81.01,4.26,0.00,0.00,0.0000,0.0000
+google_uac_3,creative_6,Google UAC,21,84.40,4.02,0.00,0.00,0.0000,0.0000
+steam_featuring_1,creative_3,Steam Featuring,22,16.31,0.74,0.00,0.00,0.0000,0.0000
+steam_featuring_2,creative_2,Steam Featuring,14,9.54,0.68,9.99,9.99,1.0473,1.0473
+tiktok_3,creative_5,TikTok,36,79.08,2.20,24.97,34.96,0.3157,0.4421
+tiktok_2,creative_2,TikTok,30,65.85,2.20,0.00,0.00,0.0000,0.0000
+tiktok_2,creative_3,TikTok,27,58.94,2.18,0.00,0.00,0.0000,0.0000
+tiktok_2,creative_1,TikTok,21,45.36,2.16,14.98,14.98,0.3303,0.3303
+meta_3,creative_5,Meta,27,100.32,3.72,4.99,4.99,0.0497,0.0497
+influencer_3,creative_3,Influencer,17,50.44,2.97,0.00,0.00,0.0000,0.0000
+google_uac_3,creative_4,Google UAC,16,64.00,4.00,0.00,0.00,0.0000,0.0000
+steam_featuring_1,creative_4,Steam Featuring,18,13.11,0.73,9.98,9.98,0.7614,0.7614
+meta_2,creative_2,Meta,25,95.45,3.82,9.98,9.98,0.1046,0.1046
+steam_featuring_2,creative_6,Steam Featuring,9,6.67,0.74,0.00,0.00,0.0000,0.0000
+meta_2,creative_4,Meta,22,80.41,3.65,0.00,0.00,0.0000,0.0000
+tiktok_1,creative_3,TikTok,22,47.81,2.17,24.97,29.96,0.5223,0.6267
+meta_1,creative_5,Meta,24,90.21,3.76,14.97,19.96,0.1660,0.2213
+google_uac_1,creative_6,Google UAC,28,116.36,4.16,0.00,4.99,0.0000,0.0429
+influencer_2,creative_5,Influencer,9,26.74,2.97,0.00,0.00,0.0000,0.0000
+tiktok_1,creative_5,TikTok,22,47.90,2.18,0.00,0.00,0.0000,0.0000
+influencer_2,creative_4,Influencer,9,28.02,3.11,0.00,0.00,0.0000,0.0000
+tiktok_1,creative_1,TikTok,23,48.91,2.13,4.99,9.98,0.1020,0.2041
+influencer_2,creative_1,Influencer,19,54.06,2.85,0.00,0.00,0.0000,0.0000
+google_uac_3,creative_5,Google UAC,23,98.74,4.29,0.00,0.00,0.0000,0.0000
+google_uac_2,creative_2,Google UAC,15,61.39,4.09,0.00,0.00,0.0000,0.0000
+steam_featuring_2,creative_4,Steam Featuring,14,10.21,0.73,0.00,0.00,0.0000,0.0000
+google_uac_1,creative_4,Google UAC,20,84.58,4.23,9.99,14.98,0.1181,0.1771
+steam_featuring_1,creative_5,Steam Featuring,13,9.60,0.74,9.98,24.96,1.0401,2.6012
+steam_featuring_2,creative_5,Steam Featuring,14,10.01,0.72,14.98,14.98,1.4962,1.4962
+meta_3,creative_1,Meta,27,100.58,3.73,0.00,0.00,0.0000,0.0000
+meta_1,creative_6,Meta,24,89.20,3.72,0.00,0.00,0.0000,0.0000
+steam_featuring_3,creative_1,Steam Featuring,12,8.10,0.68,4.99,4.99,0.6159,0.6159
+steam_featuring_3,creative_5,Steam Featuring,17,12.19,0.72,34.97,49.95,2.8676,4.0961
+influencer_2,creative_2,Influencer,15,46.36,3.09,9.98,9.98,0.2153,0.2153
+influencer_1,creative_4,Influencer,14,40.62,2.90,29.96,59.91,0.7376,1.4750
+meta_2,creative_3,Meta,18,64.89,3.61,49.99,49.99,0.7704,0.7704
+tiktok_3,creative_6,TikTok,19,41.06,2.16,0.00,0.00,0.0000,0.0000
+influencer_2,creative_6,Influencer,9,27.57,3.06,0.00,0.00,0.0000,0.0000
+influencer_3,creative_5,Influencer,19,52.51,2.76,14.98,19.97,0.2853,0.3803
+steam_featuring_3,creative_6,Steam Featuring,12,9.12,0.76,4.99,4.99,0.5472,0.5472
+influencer_3,creative_1,Influencer,13,37.78,2.91,0.00,4.99,0.0000,0.1321
+steam_featuring_3,creative_3,Steam Featuring,12,8.56,0.71,9.98,14.97,1.1653,1.7480

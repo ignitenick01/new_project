@@ -1,0 +1,16 @@
+{
+  "name": "marvel-rivals-game-analytics",
+  "version": "1.0.0",
+  "description": "Live-service game product, telemetry, and growth analytics case study.",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch_public_steam_data.js",
+    "simulate": "node scripts/generate_simulated_telemetry.js",
+    "analyze": "node scripts/analyze.js",
+    "build": "node scripts/fetch_public_steam_data.js && node scripts/generate_simulated_telemetry.js && node scripts/analyze.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}

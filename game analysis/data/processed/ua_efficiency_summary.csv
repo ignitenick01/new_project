@@ -1,0 +1,92 @@
+campaign_id,creative_id,acquisition_channel,installs,cpi,d7_roas,d30_roas,projected_ltv_180
+organic,organic,Organic,677,0,199.8,259.7,0.728847858197932
+steam_featuring_2,creative_3,Steam Featuring,18,0.71,9.3543,11.3015,15.291833333333333
+steam_featuring_3,creative_5,Steam Featuring,17,0.72,2.8676,4.0961,5.58264705882353
+steam_featuring_1,creative_5,Steam Featuring,13,0.74,1.0401,2.6012,3.648
+steam_featuring_3,creative_2,Steam Featuring,21,0.73,2.2742,2.2742,3.163952380952381
+steam_featuring_3,creative_3,Steam Featuring,12,0.71,1.1653,1.748,2.37025
+steam_featuring_2,creative_1,Steam Featuring,17,0.72,1.6389,1.6389,2.2319411764705883
+steam_featuring_2,creative_5,Steam Featuring,14,0.72,1.4962,1.4962,2.033
+influencer_1,creative_4,Influencer,14,2.9,0.7376,1.475,8.130642857142856
+steam_featuring_2,creative_2,Steam Featuring,14,0.68,1.0473,1.0473,1.3557857142857141
+tiktok_2,creative_5,TikTok,19,2.15,0.4895,0.979,3.9979999999999993
+meta_2,creative_3,Meta,18,3.61,0.7704,0.7704,5.276722222222222
+steam_featuring_1,creative_4,Steam Featuring,18,0.73,0.7614,0.7614,1.0534444444444444
+tiktok_1,creative_3,TikTok,22,2.17,0.5223,0.6267,2.5874545454545452
+steam_featuring_3,creative_1,Steam Featuring,12,0.68,0.6159,0.6159,0.7900833333333334
+influencer_3,creative_4,Influencer,17,2.89,0.3047,0.6094,3.348470588235294
+influencer_1,creative_1,Influencer,21,2.89,0.4123,0.5772,3.163952380952381
+steam_featuring_3,creative_6,Steam Featuring,12,0.76,0.5472,0.5472,0.7900833333333334
+steam_featuring_1,creative_6,Steam Featuring,14,0.72,0.4942,0.4942,0.6772142857142857
+meta_1,creative_2,Meta,25,3.58,0.279,0.4462,3.0362
+tiktok_3,creative_5,TikTok,36,2.2,0.3157,0.4421,1.845111111111111
+influencer_3,creative_5,Influencer,19,2.76,0.2853,0.3803,1.9969999999999999
+meta_1,creative_3,Meta,22,3.6,0.3786,0.3786,2.589181818181818
+meta_1,creative_1,Meta,34,3.72,0.3553,0.3553,2.511911764705882
+influencer_1,creative_6,Influencer,20,2.83,0.1763,0.3526,1.8981
+tiktok_2,creative_1,TikTok,21,2.16,0.3303,0.3303,1.3553333333333333
+google_uac_2,creative_4,Google UAC,19,4.24,0.1858,0.3097,2.496
+meta_3,creative_2,Meta,22,3.73,0.2434,0.3042,2.157363636363636
+meta_2,creative_6,Meta,37,3.66,0.1105,0.2949,2.0514864864864863
+google_uac_3,creative_2,Google UAC,17,4.2,0.1398,0.2798,2.2319411764705883
+google_uac_3,creative_1,Google UAC,21,4.19,0.1701,0.2268,1.805904761904762
+meta_1,creative_5,Meta,24,3.76,0.166,0.2213,1.5801666666666667
+influencer_2,creative_2,Influencer,15,3.09,0.2153,0.2153,1.2641333333333333
+tiktok_1,creative_1,TikTok,23,2.13,0.102,0.2041,0.8244347826086956
+influencer_2,creative_3,Influencer,17,2.9,0.2028,0.2028,1.1165294117647058
+tiktok_3,creative_1,TikTok,24,2.13,0.1955,0.1955,0.7908749999999999
+google_uac_2,creative_3,Google UAC,20,4.22,0.1775,0.1775,1.4231
+google_uac_1,creative_4,Google UAC,20,4.23,0.1181,0.1771,1.4231
+tiktok_2,creative_6,TikTok,28,2.11,0.1693,0.1693,0.6778928571428571
+google_uac_1,creative_3,Google UAC,29,4.24,0,0.1626,1.3096896551724135
+tiktok_3,creative_3,TikTok,29,2.18,0,0.1583,0.6545172413793103
+google_uac_3,creative_3,Google UAC,16,4.21,0,0.1482,1.1863124999999999
+influencer_1,creative_3,Influencer,12,2.87,0,0.1449,0.7900833333333334
+influencer_3,creative_1,Influencer,13,2.91,0,0.1321,0.7293076923076923
+meta_2,creative_2,Meta,25,3.82,0.1046,0.1046,0.75848
+meta_2,creative_1,Meta,27,3.63,0,0.1019,0.703
+google_uac_1,creative_2,Google UAC,24,4.09,0.0508,0.1016,0.7900833333333334
+meta_3,creative_4,Meta,27,3.64,0.0507,0.0507,0.35114814814814815
+meta_3,creative_5,Meta,27,3.72,0.0497,0.0497,0.35114814814814815
+meta_3,creative_3,Meta,30,3.78,0.044,0.044,0.31603333333333333
+google_uac_1,creative_6,Google UAC,28,4.16,0,0.0429,0.33860714285714283
+steam_featuring_1,creative_2,Steam Featuring,13,0.71,0,0,0
+meta_3,creative_6,Meta,19,3.75,0,0,0
+steam_featuring_3,creative_4,Steam Featuring,11,0.72,0,0,0
+tiktok_3,creative_2,TikTok,28,2.16,0,0,0
+google_uac_1,creative_1,Google UAC,12,4,0,0,0
+influencer_3,creative_2,Influencer,21,2.9,0,0,0
+tiktok_1,creative_4,TikTok,24,2.14,0,0,0
+tiktok_2,creative_4,TikTok,31,2.12,0,0,0
+google_uac_1,creative_5,Google UAC,15,4.1,0,0,0
+steam_featuring_1,creative_1,Steam Featuring,19,0.7,0,0,0
+tiktok_3,creative_4,TikTok,35,2.15,0,0,0
+google_uac_2,creative_1,Google UAC,23,4.29,0,0,0
+influencer_3,creative_6,Influencer,14,2.78,0,0,0
+tiktok_1,creative_6,TikTok,28,2.12,0,0,0
+meta_1,creative_4,Meta,29,3.62,0,0,0
+google_uac_2,creative_5,Google UAC,17,4.01,0,0,0
+influencer_1,creative_2,Influencer,12,2.82,0,0,0
+tiktok_1,creative_2,TikTok,17,2.11,0,0,0
+meta_2,creative_5,Meta,29,3.74,0,0,0
+influencer_1,creative_5,Influencer,9,2.8,0,0,0
+google_uac_2,creative_6,Google UAC,19,4.26,0,0,0
+google_uac_3,creative_6,Google UAC,21,4.02,0,0,0
+steam_featuring_1,creative_3,Steam Featuring,22,0.74,0,0,0
+tiktok_2,creative_2,TikTok,30,2.2,0,0,0
+tiktok_2,creative_3,TikTok,27,2.18,0,0,0
+influencer_3,creative_3,Influencer,17,2.97,0,0,0
+google_uac_3,creative_4,Google UAC,16,4,0,0,0
+steam_featuring_2,creative_6,Steam Featuring,9,0.74,0,0,0
+meta_2,creative_4,Meta,22,3.65,0,0,0
+influencer_2,creative_5,Influencer,9,2.97,0,0,0
+tiktok_1,creative_5,TikTok,22,2.18,0,0,0
+influencer_2,creative_4,Influencer,9,3.11,0,0,0
+influencer_2,creative_1,Influencer,19,2.85,0,0,0
+google_uac_3,creative_5,Google UAC,23,4.29,0,0,0
+google_uac_2,creative_2,Google UAC,15,4.09,0,0,0
+steam_featuring_2,creative_4,Steam Featuring,14,0.73,0,0,0
+meta_3,creative_1,Meta,27,3.73,0,0,0
+meta_1,creative_6,Meta,24,3.72,0,0,0
+tiktok_3,creative_6,TikTok,19,2.16,0,0,0
+influencer_2,creative_6,Influencer,9,3.06,0,0,0
